@@ -5,17 +5,21 @@ body {
 
 .card {
   border: 1px solid lightblue;
+
   width: 30%;
   padding: 10px;
   margin-bottom: 20px;
   box-shadow: 5px 10px black;
+
  
 }
 
 .container {
   display: flex;
+
   flex-wrap: wrap;
   justify-content: space-around;
+
 
   
 }
