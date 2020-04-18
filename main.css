@@ -57,3 +57,9 @@ body {
 .description {
   font-family: 'Lato', sans-serif;
 }
+
+.soldout {
+  position: absolute;
+  z-index: 4;
+ 
+}
