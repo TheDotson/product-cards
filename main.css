@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background: #9E9E9E;
   color: black;
 }
 
@@ -7,7 +7,8 @@ body {
   width: 30%;
   margin-bottom: 20px;
   box-shadow: 5px 5px black;
-  background-color: cornflowerblue;
+  background: #03A9F4;
+  color: #212121;
 }
 
 .container {
